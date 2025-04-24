@@ -1,4 +1,4 @@
-🛍️ E-commerce Database Design - Peer Group 538 Assignment
+🛍️ E-commerce Database Design - Peer Group 161
 This project presents a relational database design for a simplified e-commerce platform. It covers core product features.
 
 📁 Contents
